@@ -230,6 +230,7 @@ System.out.println(s); // "hello"
 "hello".startsWith("he"); // true
 "hello".endsWith("lo"); // true
 "hello".substring(2); // "llo"
+"hello".charAt(0); // 'h'
 
 // 剔除首尾空白符
 "   \tHello\r\n ".trim(); // "Hello"
